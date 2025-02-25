@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B88EAD2-D34A-483D-A1DA-B0FDA6B25E36}|DemoMockTest\\DemoMockTest.csproj|c:\\users\\utopios\\desktop\\cesi\\depocesi\\di-2023-2024\\10 - tdd\\demo\\demo1class\\demomocktest\\jeutest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B88EAD2-D34A-483D-A1DA-B0FDA6B25E36}|DemoMockTest\\DemoMockTest.csproj|solutionrelative:demomocktest\\jeutest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B88EAD2-D34A-483D-A1DA-B0FDA6B25E36}|DemoMockTest\\DemoMockTest.csproj|c:\\users\\utopios\\desktop\\cesi\\depocesi\\di-2023-2024\\10 - tdd\\demo\\demo1class\\demomocktest\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B88EAD2-D34A-483D-A1DA-B0FDA6B25E36}|DemoMockTest\\DemoMockTest.csproj|solutionrelative:demomocktest\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01AC339-17D7-4760-85C8-695D47110481}|DemoMock\\DemoMock.csproj|c:\\users\\utopios\\desktop\\cesi\\depocesi\\di-2023-2024\\10 - tdd\\demo\\demo1class\\demomock\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01AC339-17D7-4760-85C8-695D47110481}|DemoMock\\DemoMock.csproj|solutionrelative:demomock\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01AC339-17D7-4760-85C8-695D47110481}|DemoMock\\DemoMock.csproj|c:\\users\\utopios\\desktop\\cesi\\depocesi\\di-2023-2024\\10 - tdd\\demo\\demo1class\\demomock\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01AC339-17D7-4760-85C8-695D47110481}|DemoMock\\DemoMock.csproj|solutionrelative:demomock\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B88EAD2-D34A-483D-A1DA-B0FDA6B25E36}|DemoMockTest\\DemoMockTest.csproj|c:\\users\\utopios\\desktop\\cesi\\depocesi\\di-2023-2024\\10 - tdd\\demo\\demo1class\\demomocktest\\demomocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B88EAD2-D34A-483D-A1DA-B0FDA6B25E36}|DemoMockTest\\DemoMockTest.csproj|solutionrelative:demomocktest\\demomocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01AC339-17D7-4760-85C8-695D47110481}|DemoMock\\DemoMock.csproj|c:\\users\\utopios\\desktop\\cesi\\depocesi\\di-2023-2024\\10 - tdd\\demo\\demo1class\\demomock\\ide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01AC339-17D7-4760-85C8-695D47110481}|DemoMock\\DemoMock.csproj|solutionrelative:demomock\\ide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMockTest\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "DemoMockTest\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMockTest\\GlobalUsings.cs",
+              "RelativeToolTip": "DemoMockTest\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:36:45.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoMockTest.csproj",
+              "DocumentMoniker": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMockTest\\DemoMockTest.csproj",
+              "RelativeDocumentMoniker": "DemoMockTest\\DemoMockTest.csproj",
+              "ToolTip": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMockTest\\DemoMockTest.csproj",
+              "RelativeToolTip": "DemoMockTest\\DemoMockTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T11:44:02.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JeuTest.cs",
+              "DocumentMoniker": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMockTest\\JeuTest.cs",
+              "RelativeDocumentMoniker": "DemoMockTest\\JeuTest.cs",
+              "ToolTip": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMockTest\\JeuTest.cs",
+              "RelativeToolTip": "DemoMockTest\\JeuTest.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:44:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "De.cs",
+              "DocumentMoniker": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMock\\De.cs",
+              "RelativeDocumentMoniker": "DemoMock\\De.cs",
+              "ToolTip": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMock\\De.cs",
+              "RelativeToolTip": "DemoMock\\De.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:41:08.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDe.cs",
+              "DocumentMoniker": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMock\\IDe.cs",
+              "RelativeDocumentMoniker": "DemoMock\\IDe.cs",
+              "ToolTip": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMock\\IDe.cs",
+              "RelativeToolTip": "DemoMock\\IDe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:40:42.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMock\\Jeu.cs",
+              "RelativeDocumentMoniker": "DemoMock\\Jeu.cs",
+              "ToolTip": "C:\\Users\\utopios\\Desktop\\CESI\\depoCesi\\di-2023-2024\\10 - TDD\\Demo\\demo1Class\\DemoMock\\Jeu.cs",
+              "RelativeToolTip": "DemoMock\\Jeu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:40:17.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

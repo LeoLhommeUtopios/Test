@@ -1,0 +1,12 @@
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\bin\Debug\net8.0\Exercice.deps.json
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\bin\Debug\net8.0\Exercice.dll
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\bin\Debug\net8.0\Exercice.pdb
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\Exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\Exercice.AssemblyInfoInputs.cache
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\Exercice.AssemblyInfo.cs
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\Exercice.csproj.CoreCompileInputs.cache
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\Exercice.sourcelink.json
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\Exercice.dll
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\refint\Exercice.dll
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\Exercice.pdb
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Exercice\Correction\Exercice\obj\Debug\net8.0\ref\Exercice.dll

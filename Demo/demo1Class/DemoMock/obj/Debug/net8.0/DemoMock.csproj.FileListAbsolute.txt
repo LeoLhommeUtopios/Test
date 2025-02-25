@@ -1,0 +1,12 @@
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\bin\Debug\net8.0\DemoMock.deps.json
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\bin\Debug\net8.0\DemoMock.dll
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\bin\Debug\net8.0\DemoMock.pdb
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\DemoMock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\DemoMock.AssemblyInfoInputs.cache
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\DemoMock.AssemblyInfo.cs
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\DemoMock.csproj.CoreCompileInputs.cache
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\DemoMock.sourcelink.json
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\DemoMock.dll
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\refint\DemoMock.dll
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\DemoMock.pdb
+C:\Users\utopios\Desktop\CESI\depoCesi\di-2023-2024\10 - TDD\Demo\demo1Class\DemoMock\obj\Debug\net8.0\ref\DemoMock.dll
